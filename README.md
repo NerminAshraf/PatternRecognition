@@ -1,2 +1,2 @@
-# PatternRecogntion
+# PatternRecognition
 Matlab projects for pattern recognition.
